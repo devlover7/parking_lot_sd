@@ -1,4 +1,6 @@
 package org.cp.parkinglot.service.serviceImpl;
 
-public class DashBoardServiceImpl {
+import org.cp.parkinglot.service.DashBoardService;
+
+public class DashBoardServiceImpl implements DashBoardService {
 }
